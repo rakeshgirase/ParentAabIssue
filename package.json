@@ -1,0 +1,35 @@
+{
+  "nativescript": {
+    "id": "nativescript.webpack.aab.issue",
+    "tns-ios": {
+      "version": "5.4.0"
+    },
+    "tns-android": {
+      "version": "5.4.0"
+    }
+  },
+  "main": "app.js",
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "repository": "<fill-your-repository-here>",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "nativescript-appversion": "^1.4.1",
+    "nativescript-grid-view": "^5.1.0",
+    "nativescript-purchase": "^2.0.12",
+    "nativescript-screen-orientation": "^2.0.0",
+    "nativescript-social-share": "^1.5.1",
+    "nativescript-theme-core": "~1.0.4",
+    "nativescript-toast": "^2.0.0",
+    "nativescript-ui-chart": "^4.0.2",
+    "nativescript-ui-sidedrawer": "~6.0.0",
+    "rxjs": "~6.2.0",
+    "tns-core-modules": "^5.4.3"
+  },
+  "devDependencies": {
+    "nativescript-dev-typescript": "~0.10.0",
+    "nativescript-dev-webpack": "~0.24.0"
+  },
+  "gitHead": "67e1a5d2fe6907c5e775d020e6439df795154f58",
+  "readme": "NativeScript Application"
+}
